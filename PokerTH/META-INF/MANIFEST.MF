@@ -1,0 +1,120 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: CciAxQW8tlteH7rb79M5HLM6BLP0/OCPDMiu7ffklJY=
+
+Name: assets/--Added-by-androiddeployqt--/qt_cache_pregenerated_file_l
+ ist
+SHA-256-Digest: ReEc3LKa7hS7e8IEANZ0D3XupaGSWcd+MoYwTURQ030=
+
+Name: classes.dex
+SHA-256-Digest: MXEmTF0EoTGv6elbWHcnLqYDb3D0VgmnriHTIajZNrw=
+
+Name: lib/armeabi/gdbserver
+SHA-256-Digest: GR9GXZI1CMxZWcTLTm6/i51MKvfcMmj0iGwxkLJXBQA=
+
+Name: lib/armeabi/libQt5Core.so
+SHA-256-Digest: 7+/HfpZ6UOR+lHkT176T6VCz4e+lMCwFN3lXk3IzNwc=
+
+Name: lib/armeabi/libQt5Gui.so
+SHA-256-Digest: Bfm4guzrOFBSzA8uj9ARNG7qFimKejrobLrS0w5WFCc=
+
+Name: lib/armeabi/libQt5Network.so
+SHA-256-Digest: RYSKQedE/fnZcLHgyLudg9A6VI4UVJlQpoMaIo+wrco=
+
+Name: lib/armeabi/libQt5Sql.so
+SHA-256-Digest: YtYr1eOOuKuyfm/zf3BpC7EC83aeoe7AbhypUxBSWgo=
+
+Name: lib/armeabi/libQt5Widgets.so
+SHA-256-Digest: OX9BNRqlbr7R5AWrCMzF4Da2nDEAsBEcr8N5xmQdi+k=
+
+Name: lib/armeabi/libgdbserver.so
+SHA-256-Digest: GR9GXZI1CMxZWcTLTm6/i51MKvfcMmj0iGwxkLJXBQA=
+
+Name: lib/armeabi/libgnustl_shared.so
+SHA-256-Digest: I2Y61R0An3NXLONUOv7OD0/85KeeY9ND487CQiuFzeU=
+
+Name: lib/armeabi/libplugins_bearer_libqandroidbearer.so
+SHA-256-Digest: 81mNp2G26zycaieByfeO7Vk2mMIYzvQKn/M5K15EWQ8=
+
+Name: lib/armeabi/libplugins_generic_libqevdevkeyboardplugin.so
+SHA-256-Digest: 20XX+LhQUJybZ1wLddnFH1DX99eunEizylR5TCHCoyk=
+
+Name: lib/armeabi/libplugins_generic_libqevdevmouseplugin.so
+SHA-256-Digest: WZ/4+Yx+Dc/JfWyySkoHOn9e8k0umT7TRQktsvzhWfg=
+
+Name: lib/armeabi/libplugins_generic_libqevdevtabletplugin.so
+SHA-256-Digest: HSuwTU7HG5PA4ZKCOtfCJnkET5QQ6MoEMwgN++GvJPo=
+
+Name: lib/armeabi/libplugins_generic_libqevdevtouchplugin.so
+SHA-256-Digest: vJ07sr459MCnYd7/fRSyI9IGM010axZPGp4uC8+LSU0=
+
+Name: lib/armeabi/libplugins_generic_libqtuiotouchplugin.so
+SHA-256-Digest: A5+8ZMeDqk5MShDSEl5F0XxfE6IYbnyM/didStQnIrY=
+
+Name: lib/armeabi/libplugins_imageformats_libqdds.so
+SHA-256-Digest: 3PLwLFBusJ8NzzmswW3sasJiJal29pUAHS6Y2HKR2Uc=
+
+Name: lib/armeabi/libplugins_imageformats_libqgif.so
+SHA-256-Digest: l7J+chKeuHycy2/WTDQP7ygv5EYQf1s+jMn3kpUjybQ=
+
+Name: lib/armeabi/libplugins_imageformats_libqicns.so
+SHA-256-Digest: iOwRCexRPJcJYV+qDiEUp+xIEOKD4ioW1N9tm6yKwp4=
+
+Name: lib/armeabi/libplugins_imageformats_libqico.so
+SHA-256-Digest: Oq6rrlLpYP0KeV61vQcAKMXDKdVfBFE5l/d+oNbLbMU=
+
+Name: lib/armeabi/libplugins_imageformats_libqjp2.so
+SHA-256-Digest: AzYa3baGmtkc6ykqdmUyo12QoYnbwVkBCzxWLJ0tSKc=
+
+Name: lib/armeabi/libplugins_imageformats_libqjpeg.so
+SHA-256-Digest: XT9AK10O3o+FZcBISomdf/nN7roVYGNquXM/LpASyfM=
+
+Name: lib/armeabi/libplugins_imageformats_libqmng.so
+SHA-256-Digest: RrRVB5G2GAMDhJk8MDYIHexwwf5hPxsKeURZzn1NVs4=
+
+Name: lib/armeabi/libplugins_imageformats_libqtga.so
+SHA-256-Digest: acdWyLnV66R02xv/+TFnVZf3DV6lrANM2/3ese3AVPY=
+
+Name: lib/armeabi/libplugins_imageformats_libqtiff.so
+SHA-256-Digest: ocEZZ0aFpQWu0mqxY7sWdbCrpal6mQvmmtSRVuEk0SQ=
+
+Name: lib/armeabi/libplugins_imageformats_libqwbmp.so
+SHA-256-Digest: hFEGbk1DWIiWPLLKsoARN5YCrmSWrhGV13GErvZq0/s=
+
+Name: lib/armeabi/libplugins_imageformats_libqwebp.so
+SHA-256-Digest: 69njQ1xp1CiAxpWgdCQALxH7VCl55XZNWCOJQIxURE8=
+
+Name: lib/armeabi/libplugins_platforms_android_libqtforandroid.so
+SHA-256-Digest: ip1DxN3gYNLXxDrQvYSQ0b4FRQ+iREbUM+ZuaZwmIgs=
+
+Name: lib/armeabi/libplugins_platforms_libqminimal.so
+SHA-256-Digest: OIrwrIbQMnuIQKXkymQ1ZcTHBmAYAcaGBpJN0EupHek=
+
+Name: lib/armeabi/libplugins_platforms_libqminimalegl.so
+SHA-256-Digest: ziQfB5JsGMDPQQENwMjkOPX1p8hM5I4Z97S5aFPxTA0=
+
+Name: lib/armeabi/libplugins_platforms_libqoffscreen.so
+SHA-256-Digest: cxeAWXfUaGJ1UmpTdAll7CGdqk5Wi2abOXQVKMxIsPw=
+
+Name: lib/armeabi/libplugins_sqldrivers_libqsqlite.so
+SHA-256-Digest: 2P7gAF5ofv1QrhVsne5nlYblfF8IehCjFROZSPPn758=
+
+Name: lib/armeabi/libpokerth.so
+SHA-256-Digest: 6s0/8yLMlX4doijKmDDmQeEy/QQBnSKJZuTxCqa7Loc=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA-256-Digest: yuDVwQXykdqvJQAHdhxNKidGrSpAiDsVtgIjvkKsJ0U=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA-256-Digest: yuDVwQXykdqvJQAHdhxNKidGrSpAiDsVtgIjvkKsJ0U=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA-256-Digest: yuDVwQXykdqvJQAHdhxNKidGrSpAiDsVtgIjvkKsJ0U=
+
+Name: res/layout/splash.xml
+SHA-256-Digest: Q995d6Mzm5blk+YTXXRBCJcRKZrJLb3mfKiSyYtt4uo=
+
+Name: resources.arsc
+SHA-256-Digest: k8RSaTDnl70iTn1irZeB8S2mzsvGPtqYSSCb2j4f+S8=
+
